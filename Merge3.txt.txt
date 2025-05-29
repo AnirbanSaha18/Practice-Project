@@ -1,1 +1,2 @@
 Here we perform 3-way merging operation. And We push that file in feature-1 branch.
+In 3 way merging we do changes in both of the branches.
