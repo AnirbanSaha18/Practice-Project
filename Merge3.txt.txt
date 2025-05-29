@@ -1,1 +1,2 @@
 Here we perform 3-way merging operation. And We push that file in feature-1 branch.
+3-Way merging also called as ORT strategy.
