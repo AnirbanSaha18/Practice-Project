@@ -1,0 +1,1 @@
+Here we perform remove operation. To delete a particular file.
