@@ -1,1 +1,0 @@
-This file is a part of main branch. Here we perform 3-Way merging. But using rebase command it won't generate the default commit.
